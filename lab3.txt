@@ -1,1 +1,2 @@
 git revert + commit id
+git reset --soft head~1
