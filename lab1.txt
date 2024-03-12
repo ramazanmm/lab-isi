@@ -1,2 +1,1 @@
 git log (commitlerin loglarina baxmaq)
-test5

@@ -1,2 +1,2 @@
-git revert + commit id (son commiti silir)
-git reset --soft head~(sondan necesini silmek isteyirsiz)
+git revert + commit id
+git reset --soft head~1
